@@ -25,6 +25,7 @@
 <code><img src="https://skillicons.dev/icons?i=java"/></code>
 <code><img src="https://skillicons.dev/icons?i=ts"/></code>
 <code><img src="https://skillicons.dev/icons?i=py"/></code>
+<code><img src="https://skillicons.dev/icons?i=materialui"/></code>
 </p>
 
 ### Programas 
