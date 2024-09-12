@@ -34,5 +34,3 @@
 <code><img src="https://skillicons.dev/icons?i=figma"/></code>
 </p>
 
-![snake gif](https://github.com/WazowskiDMike/WazowskiDMike/blob/output/github-contribution-grid-snake.gif)
-
