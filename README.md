@@ -1,16 +1,29 @@
-## Hi there 👋
+## Olá, sou Michael Santos
 
-<!--
-**WazowskiDMike/WazowskiDMike** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<a href="https://github.com/WazowskiDMike?tab=repositories">
+<img heigth="180em" src="https://github-readme-stats.vercel.app/api?username=WazowskiDMike&show_icons=true&theme=dracula&hide_border=true">
+<img heigth="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WazowskiDMike&layout=compact&theme=dracula&hide_border=true)](https://github.com/anuraghazra/github-readme-stats">
 
-Here are some ideas to get you started:
+</a>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Ferramentas e tecnologias
+
+<code>
+<a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,js,css,php,bootstrap,mysql,tailwind,github" />
+</code>
+
+### Estou aprendendo
+
+<code>
+<a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=laravel,react,java,ts,py"/>
+</a>
+</code>
+
+### Programas 
+<code>
+<a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=vscode,idea,figma"/>
+</a>
+</code>
