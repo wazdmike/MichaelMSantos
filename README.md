@@ -8,10 +8,7 @@
 
 ### Ferramentas e tecnologias
 
-<code>
-<a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,js,css,php,bootstrap,mysql,tailwind,github" />
-</code>
+<code><img src="https://skillicons.dev/icons?i=html"/></code>
 
 ### Estou aprendendo
 
