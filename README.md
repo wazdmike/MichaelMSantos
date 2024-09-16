@@ -11,8 +11,6 @@
 <code><img src="https://skillicons.dev/icons?i=html"/></code>
 <code><img src="https://skillicons.dev/icons?i=js"/></code>
 <code><img src="https://skillicons.dev/icons?i=css"/></code>
-<code><img src="https://skillicons.dev/icons?i=bootstrap"/></code>
-<code><img src="https://skillicons.dev/icons?i=tailwind"/></code>
 <code><img src="https://skillicons.dev/icons?i=php"/></code>
 <code><img src="https://skillicons.dev/icons?i=mysql"/></code>
 <code><img src="https://skillicons.dev/icons?i=github"/></code>
@@ -20,6 +18,8 @@
 
 ### Estou aprendendo
 <p>
+<code><img src="https://skillicons.dev/icons?i=bootstrap"/></code>
+<code><img src="https://skillicons.dev/icons?i=tailwind"/></code>
 <code><img src="https://skillicons.dev/icons?i=laravel"/></code>
 <code><img src="https://skillicons.dev/icons?i=react"/></code>
 <code><img src="https://skillicons.dev/icons?i=java"/></code>
