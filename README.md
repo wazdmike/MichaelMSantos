@@ -2,7 +2,7 @@
 
   <a href="https://github.com/WazowskiDMike?tab=repositories">
     <img src="https://github-readme-stats.vercel.app/api?username=WazowskiDMike&show_icons=true&theme=dracula&hide_border=false">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=WazowskiDMike&layout=compact&theme=dracula&hide_border=true" height="195px">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=WazowskiDMike&layout=compact&theme=dracula&hide_border=false" height="195px">
   </a>
 
 
