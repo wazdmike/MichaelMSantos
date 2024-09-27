@@ -1,8 +1,8 @@
 ## Olá, sou Michael Santos
 
-  <a href="https://github.com/WazowskiDMike?tab=repositories">
-    <img src="https://github-readme-stats.vercel.app/api?username=WazowskiDMike&show_icons=true&theme=dracula&hide_border=false">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=WazowskiDMike&layout=compact&theme=dracula&hide_border=false" height="195px">
+  <a href="https://github.com/MichaelMSantos?tab=repositories">
+    <img src="https://github-readme-stats.vercel.app/api?username=MichaelMSantos&show_icons=true&theme=dracula&hide_border=false">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MichaelMSantos&layout=compact&theme=dracula&hide_border=false" height="195px">
   </a>
 
 
