@@ -1,7 +1,7 @@
-## Olá, sou Michael Santos
+## Hi, I'm Michael Santos
 
 
-### Ferramentas e tecnologias
+### Programming and Development
 <p>
 <code><img src="https://skillicons.dev/icons?i=html"/></code>
 <code><img src="https://skillicons.dev/icons?i=js"/></code>
@@ -11,7 +11,7 @@
 <code><img src="https://skillicons.dev/icons?i=github"/></code>
 </p>
 
-### Estou aprendendo
+### I'm currently learning
 <p>
 <code><img src="https://skillicons.dev/icons?i=bootstrap"/></code>
 <code><img src="https://skillicons.dev/icons?i=tailwind"/></code>
@@ -22,7 +22,7 @@
 <code><img src="https://skillicons.dev/icons?i=py"/></code>
 </p>
 
-### Programas 
+### Workstation tool & Design tool 
 <p>
 <code><img src="https://skillicons.dev/icons?i=vscode"/></code>
 <code><img src="https://skillicons.dev/icons?i=idea"/></code>
