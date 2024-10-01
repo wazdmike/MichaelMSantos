@@ -1,8 +1,13 @@
 ## Olá, sou Michael Santos
 
   <a href="https://github.com/MichaelMSantos?tab=repositories">
-    <img src="https://github-readme-stats.vercel.app/api?username=MichaelMSantos&show_icons=true&theme=dracula&hide_border=false">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MichaelMSantos&layout=compact&theme=dracula&hide_border=false" height="195px">
+    <img src="https://github-readme-stats.vercel.app/api?username=MichaelMSantos&show_icons=true&theme=dracula&hide_border=true">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MichaelMSantos&layout=compact&theme=dracula&hide_border=true" height="195px">
+  </a>
+
+  <a href="#">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=MichaelMSantos&theme=dracula&hide_border=true" height="242px">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MichaelMSantos&theme=dracula&hide_border=true" height="242px">
   </a>
 
 
