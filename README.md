@@ -8,7 +8,6 @@
 <code><img src="https://skillicons.dev/icons?i=css"/></code>
 <code><img src="https://skillicons.dev/icons?i=php"/></code>
 <code><img src="https://skillicons.dev/icons?i=mysql"/></code>
-<code><img src="https://skillicons.dev/icons?i=github"/></code>
 </p>
 
 ### I'm currently learning
@@ -27,6 +26,8 @@
 <code><img src="https://skillicons.dev/icons?i=vscode"/></code>
 <code><img src="https://skillicons.dev/icons?i=idea"/></code>
 <code><img src="https://skillicons.dev/icons?i=figma"/></code>
+<code><img src="https://skillicons.dev/icons?i=github"/></code>
+<code><img src="https://skillicons.dev/icons?i=git"/></code>
 </p>
 
 ## Stats
