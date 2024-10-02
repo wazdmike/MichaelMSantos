@@ -37,8 +37,8 @@
   </a>
 
   <a href="#">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=MichaelMSantos&theme=dracula&hide_border=true" height="242px">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MichaelMSantos&theme=dracula&hide_border=true" height="242px">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=MichaelMSantos&theme=dracula&hide_border=true&exclude=html,CSS" height="242px">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MichaelMSantos&theme=dracula&hide_border=true&exclude=html,CSS" height="242px">
   </a>
 
 
