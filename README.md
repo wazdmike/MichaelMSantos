@@ -1,4 +1,4 @@
-## Hi, I'm Michael Santos
+## Hi there, I'm Michael Santos
 
 
 ### Programming and Development
