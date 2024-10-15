@@ -1,5 +1,5 @@
 ## Hi there, I'm Michael Santos
-<h4>I'm a beginner developer, studying Systems Development at SENAI. I focus on development in both Front-end and Back-end</h1>
+<h4>I'm a beginner Front-end and Back-end developer, studying Systems Development at SENAI</h1>
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/_wazmike/)
 
