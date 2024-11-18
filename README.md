@@ -36,7 +36,7 @@
 ## GitHub Stats
   <a href="https://github.com/MichaelMSantos?tab=repositories">
     <img src="https://github-readme-stats.vercel.app/api?username=MichaelMSantos&show_icons=true&theme=dracula&hide_border=true">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MichaelMSantos&layout=compact&theme=dracula&hide_border=true&exclude=CSS" height="195px">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MichaelMSantos&layout=compact&theme=dracula&hide_border=true&hide=html,CSS" height="195px">
   </a>
 
   <a href="#">
