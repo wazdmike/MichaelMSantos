@@ -22,6 +22,9 @@
 <code><img src="https://skillicons.dev/icons?i=java"/></code>
 <code><img src="https://skillicons.dev/icons?i=ts"/></code>
 <code><img src="https://skillicons.dev/icons?i=py"/></code>
+<code><img src="https://skillicons.dev/icons?i=aws"/></code>
+<code><img src="https://skillicons.dev/icons?i=docker"/></code>
+<code><img src="https://skillicons.dev/icons?i=firebase"/></code>
 </p>
 
 ### Workstation tool & Design tool 
