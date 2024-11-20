@@ -11,12 +11,12 @@
 <code><img src="https://skillicons.dev/icons?i=css"/></code>
 <code><img src="https://skillicons.dev/icons?i=php"/></code>
 <code><img src="https://skillicons.dev/icons?i=mysql"/></code>
+<code><img src="https://skillicons.dev/icons?i=tailwind"/></code>
 </p>
 
 ### I'm currently learning
 <p>
 <code><img src="https://skillicons.dev/icons?i=bootstrap"/></code>
-<code><img src="https://skillicons.dev/icons?i=tailwind"/></code>
 <code><img src="https://skillicons.dev/icons?i=laravel"/></code>
 <code><img src="https://skillicons.dev/icons?i=react"/></code>
 <code><img src="https://skillicons.dev/icons?i=java"/></code>
