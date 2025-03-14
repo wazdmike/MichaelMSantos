@@ -1,5 +1,5 @@
 ## Hi there, I'm Michael Santos
-<h4>I'm a beginner Fullstack developer</h1>
+<h4>Studyin' "Analysis and systems development"</h1>
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/_wazmike/)
 
