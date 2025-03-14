@@ -1,5 +1,7 @@
 ## Hi there, I'm Michael Santos
-<h4>Studyin' "Analysis and systems development"</h1>
+<h4>Currently studyin' "Analysis and systems development"</h4>
+<h5>Graduated with a technical degree in Systems Development from SENAI.</h5>
+<br>
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/_wazmike/)
 
