@@ -18,7 +18,6 @@
 
 ### I'm currently learning
 <p>
-<code><img src="https://skillicons.dev/icons?i=bootstrap"/></code>
 <code><img src="https://skillicons.dev/icons?i=laravel"/></code>
 <code><img src="https://skillicons.dev/icons?i=react"/></code>
 <code><img src="https://skillicons.dev/icons?i=java"/></code>
@@ -36,6 +35,7 @@
 <code><img src="https://skillicons.dev/icons?i=figma"/></code>
 <code><img src="https://skillicons.dev/icons?i=github"/></code>
 <code><img src="https://skillicons.dev/icons?i=git"/></code>
+<code><img src="https://skillicons.dev/icons?i=linux"/></code>
 </p>
 
 ## GitHub Stats
