@@ -7,7 +7,7 @@
 ## Education
 
 - **Feb 2025 – Present**  
-  *Federal Institute of Education, Science and Technology of São Paulo (IFSP)*  
+  *Federal Institute of Education, Science and Technology of São Paulo*  
   Technologist Degree in Software Analysis and Development (ADS)
 
 - **Aug 2023 – Dec 2024**  
