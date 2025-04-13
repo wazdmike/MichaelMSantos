@@ -11,8 +11,8 @@
   Technologist Degree in Software Analysis and Development (ADS)
 
 - **Aug 2023 – Dec 2024**  
-  *SENAI-SP*  
-  Technical Degree in Systems Development
+  *SENAI-SP (National Service for Industrial Training – São Paulo)*  
+Technical Degree in Systems Development
 
 ## Skills
 <p>
