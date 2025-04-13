@@ -37,7 +37,7 @@ Technical Degree in Systems Development
   <code><img src="https://skillicons.dev/icons?i=aws" alt="AWS" /></code>
 </p>
 
-## Workstation & Design Tools
+## Workstation
 <p>
   <code><img src="https://skillicons.dev/icons?i=vscode" alt="VS Code" /></code>
   <code><img src="https://skillicons.dev/icons?i=idea" alt="IntelliJ IDEA" /></code>
