@@ -1,4 +1,4 @@
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MichaelMSantos&layout=compact&theme=transparent&hide_rank=true&hide=html,CSS,SCSS">
+<img align="right" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MichaelMSantos&theme=transparent&hide_border=true">
 
 # Michael Santos
 
