@@ -43,7 +43,6 @@ Technical Degree in Systems Development
   <code><img src="https://skillicons.dev/icons?i=idea" alt="IntelliJ IDEA" /></code>
   <code><img src="https://skillicons.dev/icons?i=figma" alt="Figma" /></code>
   <code><img src="https://skillicons.dev/icons?i=github" alt="GitHub" /></code>
-  <code><img src="https://skillicons.dev/icons?i=git" alt="Git" /></code>
   <code><img src="https://skillicons.dev/icons?i=linux" alt="Linux" /></code>
   <code><img src="https://skillicons.dev/icons?i=docker" alt="Docker" /></code>
   
