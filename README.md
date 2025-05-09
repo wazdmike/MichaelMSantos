@@ -47,7 +47,3 @@ Technical Degree in Systems Development
   <code><img src="https://skillicons.dev/icons?i=docker" alt="Docker" /></code>
   
 </p>
-
-##
-![github contribution grid snake animation](https://raw.githubusercontent.com/MichaelMSantos/MichaelMSantos/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
-![github contribution grid snake animation](https://raw.githubusercontent.com/MichaelMSantos/MichaelMSantos/output/github-contribution-grid-snake.svg#gh-light-mode-only)
