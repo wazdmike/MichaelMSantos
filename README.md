@@ -34,13 +34,11 @@
 <code><img src="https://skillicons.dev/icons?i=laravel" alt="Laravel" /></code>
 <code><img src="https://skillicons.dev/icons?i=tailwind" alt="Tailwind CSS" /></code>
 
-### Cloud & DevOps
-<code><img src="https://skillicons.dev/icons?i=aws" alt="AWS" /></code>
-<code><img src="https://skillicons.dev/icons?i=docker" alt="Docker" /></code>
-
-### Workstation
+### Tools
 <code><img src="https://skillicons.dev/icons?i=vscode" alt="VS Code" /></code>
 <code><img src="https://skillicons.dev/icons?i=idea" alt="IntelliJ IDEA" /></code>
 <code><img src="https://skillicons.dev/icons?i=figma" alt="Figma" /></code>
 <code><img src="https://skillicons.dev/icons?i=git" alt="Git" /></code>
 <code><img src="https://skillicons.dev/icons?i=postman" alt="Postman" /></code>
+<code><img src="https://skillicons.dev/icons?i=aws" alt="AWS" /></code>
+<code><img src="https://skillicons.dev/icons?i=docker" alt="Docker" /></code>
