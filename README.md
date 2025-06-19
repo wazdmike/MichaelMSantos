@@ -42,5 +42,5 @@
 <code><img src="https://skillicons.dev/icons?i=vscode" alt="VS Code" /></code>
 <code><img src="https://skillicons.dev/icons?i=idea" alt="IntelliJ IDEA" /></code>
 <code><img src="https://skillicons.dev/icons?i=figma" alt="Figma" /></code>
-<code><img src="https://skillicons.dev/icons?i=github" alt="GitHub" /></code>
+<code><img src="https://skillicons.dev/icons?i=git" alt="Git" /></code>
 <code><img src="https://skillicons.dev/icons?i=postman" alt="Postman" /></code>
