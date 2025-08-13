@@ -42,3 +42,16 @@
 <code><img src="https://skillicons.dev/icons?i=postman" alt="Postman" /></code>
 <code><img src="https://skillicons.dev/icons?i=aws" alt="AWS" /></code>
 <code><img src="https://skillicons.dev/icons?i=docker" alt="Docker" /></code>
+
+###
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="images/breakout-dark.svg"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="images/breakout-light.svg"
+  />
+  <img alt="Breakout Game" src="images/breakout-light.svg" />
+</picture>
